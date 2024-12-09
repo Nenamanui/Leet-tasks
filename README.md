@@ -7,3 +7,4 @@
 - [x] https://leetcode.com/problems/non-overlapping-intervals/ [(решение)](https://github.com/Nenamanui/Leet_tasks/blob/main/Nonoverlapping_intervals_435.py)
 - [x] https://leetcode.com/problems/insert-interval/ [(решение)](https://github.com/Nenamanui/Leet_tasks/blob/main/Insert_Interval_57.py)
 - [x] https://leetcode.com/problems/binary-tree-inorder-traversal/ [(решение)](https://github.com/Nenamanui/Leet_tasks/blob/main/Binary_Tree_Inorder_Traversal_94.py)
+- [x] https://leetcode.com/problems/maximum-depth-of-binary-tree/ [(решение)](https://github.com/Nenamanui/Leet_tasks/blob/main/Maximum_Depth_Of_Binary_Tree_104.py)
