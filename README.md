@@ -12,3 +12,4 @@
 - [x] https://leetcode.com/problems/longest-substring-without-repeating-characters/ [(решение)](https://github.com/Nenamanui/Leet_tasks/blob/main/Longest_Substring_Without_Repeating_Characters_3.py)
 - [x] https://leetcode.com/problems/evaluate-reverse-polish-notation/ [(решение)](https://github.com/Nenamanui/Leet_tasks/blob/main/Evaluate_Reverse_Polish_Notation_150.py)
 - [x] https://leetcode.com/problems/binary-search/ [(решение)](https://github.com/Nenamanui/Leet_tasks/blob/main/Binary_Search_704.py)
+- [x] https://leetcode.com/problems/validate-binary-search-tree/ [(решение)](https://github.com/Nenamanui/Leet-tasks/blob/main/Validate_Binary_Search_Tree_98.py)
